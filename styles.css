@@ -7,16 +7,14 @@
 }
 .wrapper{
     overflow-x: hidden;
-    margin-left:180px;
-    margin-right: 180px;
-    padding: 10px;
+    margin:0 auto;
+    padding: 90px;
 }
 
 #container {
     height: 100%;
     max-width: 1200px;
-    margin:0 auto;
-    padding: 20px;
+   
 
 }
 
